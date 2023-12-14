@@ -1,0 +1,18 @@
+databases:
+  - name: micronaut
+    databaseName: micronaut_s7x7
+    user: micronaut_s7x7_user
+
+services:
+  - type: web
+    name: moyen-budget
+    runtime: ruby
+    buildCommand: "./bin/render-build.sh"
+    startCommand: "bundle exec puma -C config/puma.rb"
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: micronaut
+          property: connectionString
+      - key: RAILS_MASTER_KEY
+        sync: false
