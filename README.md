@@ -107,7 +107,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```bash
-  cd budget-app
+  cd Smart-Pocket-Budget-App
   bundle install
 ```
 
