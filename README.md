@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b>Smart Pocket Budget App</b></h1>
+  <h1><b>Smart-Pocket-Budget-App</b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -76,7 +76,7 @@ The main features include:
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - The Live Demo is available [here](https://moyen-budget.onrender.com/)
-- Video of the app is available [here]()
+- Video of the app is available [here](https://www.loom.com/share/5c6958f05d7544e7bf4b2901457e44b8?sid=f85c9c22-f525-4ec3-99a3-c08307039c47)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
