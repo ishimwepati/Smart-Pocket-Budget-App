@@ -104,7 +104,7 @@ Clone this repository to your desired folder:
 
 ### Install
 
-Install this project with:
+Install this project with the following Code:
 
 ```bash
   cd Smart-Pocket-Budget-App
